@@ -1,4 +1,4 @@
-# Paper_Publication
+# Paper Publication
 
 It is a paper that was published while I was working for Medic.life. 
 
